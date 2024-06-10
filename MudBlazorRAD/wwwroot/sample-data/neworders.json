@@ -1,0 +1,84 @@
+﻿[
+  {
+    "date": "2024-06-06",
+    "name": "Si Lam",
+    "email": "si.lam@redwingshoes.com",
+    "phone": "6123099909",
+    "orderNumber": "H30405985",
+    "quantity": 3
+  },
+  {
+    "date": "2024-06-07",
+    "name": "Nathan Noll",
+    "email": "nathan.Noll@redwingshoes.com",
+    "phone": "6123099933",
+    "orderNumber": "H30405922",
+    "quantity": 3
+  },
+  {
+    "date": "2024-06-08",
+    "name": "Jet Li",
+    "email": "jet.li@redwingshoes.com",
+    "phone": "6423094409",
+    "orderNumber": "H34405985",
+    "quantity": 2
+  },
+  {
+    "date": "2024-06-09",
+    "name": "Bruce Lee",
+    "email": "Bruce.le@redwingshoes.com",
+    "phone": "6123229909",
+    "orderNumber": "H30403385",
+    "quantity": 3
+  },
+  {
+    "date": "2024-06-10",
+    "name": "Long John",
+    "email": "long.john@redwingshoes.com",
+    "phone": "4423099909",
+    "orderNumber": "H30411985",
+    "quantity": 5
+  },
+  {
+    "date": "2024-06-11",
+    "name": "Mel Roach",
+    "email": "mel.roach@3m.com",
+    "phone": "6123399909",
+    "orderNumber": "H30115985",
+    "quantity": 5
+  },
+  {
+    "date": "2024-06-01",
+    "name": "Isaac Corey",
+    "email": "Isaac.Corey@redwingshoes.com",
+    "phone": "6123090009",
+    "orderNumber": "H30400985",
+    "quantity": 3
+  },
+  {
+    "date": "2024-06-02",
+    "name": "Kelli Berg",
+    "email": "Kel.Berg@redwingshoes.com",
+    "phone": "6123091109",
+    "orderNumber": "H33305985",
+    "quantity": 3
+  },
+  {
+    "date": "2024-06-03",
+    "name": "John Bill",
+    "email": "JOhn.Bill@redwingshoes.com",
+    "phone": "7723099909",
+    "orderNumber": "H30405095",
+    "quantity": 1
+  },
+  {
+    "date": "2024-06-04",
+    "name": "Donald Ty",
+    "email": "donald.ty@redwingshoes.com",
+    "phone": "6123099909",
+    "orderNumber": "H30400085",
+    "quantity": 6
+  }
+
+  
+]
